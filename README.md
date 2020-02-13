@@ -1,9 +1,11 @@
-## Specifications:
-The goal of this exercices generator is to create english exercices based on video subtitles. The generator will take the subtile as input and will generate 4 types of exercices, conjugaison exercices, fill the blanks exercices, ponctuations exercices, and scramble exercices.
+## Specs:
+Aims to generate 4 types of exercise based on video subtitles:
+* "conjugation", 
+* "fill the blanks",
+* "punctuations",
+* and "scramble".
 
 ### Requirements:
-You need to use this generator in the following conda env: https://anaconda.org/pras0693/exercices_generator
-
 #### at OS level:
 + **sql-lib**: in case you do not have it on your linux-based machine : 
 ```bash
