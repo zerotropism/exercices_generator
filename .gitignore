@@ -1,0 +1,4 @@
+.vscode/
+modules/__pycache__
+exercices/
+data/complete*
